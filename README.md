@@ -8,6 +8,6 @@ Please visit the "jira_emotion_lg" log file to get more details on the output fr
 
 To import the dump file on Oracle Database run the following "Data Pump Import" command under your oracle DB schema:
 
-impdp system/<password>@XE dumpfile=exp_schm_jira_emotion.dmp logfile=impdp_jira_emotion.log;
+impdp system/"password"@XE dumpfile=exp_schm_jira_emotion.dmp logfile=impdp_jira_emotion.log;
 
 
