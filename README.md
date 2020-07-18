@@ -5,6 +5,7 @@ To Download the Oracle database dump please use the following link: https://driv
 
 The following is the log output from the Oracle Database dump operation:
 -----------------------------------------------------------------------------------------------------------------------
+
 Export: Release 11.2.0.2.0 - Production on Sat Jul 18 13:38:30 2020
 
 Copyright (c) 1982, 2009, Oracle and/or its affiliates.  All rights reserved.
@@ -33,9 +34,10 @@ Processing object type SCHEMA_EXPORT/TABLE/STATISTICS/TABLE_STATISTICS
 . . exported "JIRA_EMOTION"."ORA_JIRA_VERSION"           2.373 MB   10793 rows
 . . exported "JIRA_EMOTION"."ORA_PROJECT_DAILY_STATISTICS"  2.121 MB   49008 rows
 Master table "SYSTEM"."SYS_EXPORT_SCHEMA_01" successfully loaded/unloaded
-
+******************************************************************************
 Dump file set for SYSTEM.SYS_EXPORT_SCHEMA_01 is:
   /u01/app/oracle/admin/XE/dpdump/exp_schm_jira_emotion.dmp
 Job "SYSTEM"."SYS_EXPORT_SCHEMA_01" successfully completed at 14:10:21
+
 -----------------------------------------------------------------------------------------------------------------------
 
