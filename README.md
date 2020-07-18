@@ -11,3 +11,4 @@ To import the dump file on Oracle Database run the following "Data Pump Import" 
 impdp system/"password"@XE dumpfile=exp_schm_jira_emotion.dmp logfile=impdp_jira_emotion.log;
 
 
+Please also find the following link which can come in handy explaining how Data Pump works.
