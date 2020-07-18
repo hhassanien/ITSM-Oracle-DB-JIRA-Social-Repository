@@ -10,7 +10,9 @@ This dataset was extracted from the Jira ITS on a PostGreSQL database and migrat
 
 The reason why the original PostGreSQL based database had been migrated to an Oracle database is to enable to developers and the researchers to leverage the simplicity and robusrtness capabilities that an Oracle Database provides which typically is something that the PostGreSQL database lacks. This by turn furnishes the foundation to be used in conjunction with other technology components given the wider connectivity support of Oracle Databases compared to PostGreSQL databases.
 
-To Download the Oracle database dump please use the following Google Drive link: https://drive.google.com/drive/folders/1IQpk-xkQAUaoMG52ZxP-A5FTNKURC9nO?usp=sharing
+To Download the Oracle database dump please use the following Google Drive link:
+--------------------------------------------------------------------------------
+https://drive.google.com/drive/folders/1IQpk-xkQAUaoMG52ZxP-A5FTNKURC9nO?usp=sharing
 
 Please visit the "jira_emotion_lg" log file to get more details on the output from the Oracle Database dump operation.
 
