@@ -33,7 +33,7 @@ Processing object type SCHEMA_EXPORT/TABLE/STATISTICS/TABLE_STATISTICS
 . . exported "JIRA_EMOTION"."ORA_JIRA_VERSION"           2.373 MB   10793 rows
 . . exported "JIRA_EMOTION"."ORA_PROJECT_DAILY_STATISTICS"  2.121 MB   49008 rows
 Master table "SYSTEM"."SYS_EXPORT_SCHEMA_01" successfully loaded/unloaded
-******************************************************************************
+
 Dump file set for SYSTEM.SYS_EXPORT_SCHEMA_01 is:
   /u01/app/oracle/admin/XE/dpdump/exp_schm_jira_emotion.dmp
 Job "SYSTEM"."SYS_EXPORT_SCHEMA_01" successfully completed at 14:10:21
