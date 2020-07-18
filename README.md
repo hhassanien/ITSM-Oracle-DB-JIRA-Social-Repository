@@ -6,7 +6,7 @@ The Dataset was originall extracted from the Jira ITS (PostGreSQL Database) of f
 
 Overview of Data
 -----------------
-This dataset was extracted from the Jira ITS on a PostGreSQL database and migrated to an Oracle database for simplicity and robustness reasons. This dataset extracts tickets created on JIRA for four popular open source ecosystems (as well as the tools and infrastructure used for extraction) the Apache Software Foundation, Spring, JBoss and CodeHaus communities. The dataset hosts more than 1K projects, containing more than 700K issue reports and more than 2 million issue comments. Furthermore, comments posted by developers contain not only technical information, but also valuable information about sentiments and emotions. The full dataset (comprising the Apache projects) hosts 3516 tasks, 16173 les and 25306 comments by 1375 authors.
+This dataset was extracted from the Jira ITS on a PostGreSQL database and migrated to an Oracle database for simplicity and robustness reasons. This dataset extracts tickets created on JIRA for four popular open source ecosystems (as well as the tools and infrastructure used for extraction) the Apache Software Foundation, Spring, JBoss and CodeHaus communities. The dataset hosts more than 1K projects, containing more than 700K issue reports and more than 2 million issue comments. Furthermore, comments posted by developers contain not only technical information, but also valuable information about sentiments and emotions. The full dataset (comprising the Apache projects) hosts 3516 tasks and 25306 comments by 1375 authors.
 
 
 To Download the Oracle database dump please use the following Google Drive link: https://drive.google.com/drive/folders/1IQpk-xkQAUaoMG52ZxP-A5FTNKURC9nO?usp=sharing
